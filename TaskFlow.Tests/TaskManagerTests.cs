@@ -1,4 +1,4 @@
-﻿namespace TaskFlow.Tests;
+﻿using TaskFlow.Console;
 
 public class TaskManagerTests
 {
